@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>user_not_loggedin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b575329e-7a9f-4bc1-96d8-f5f19935b14b</testCaseGuid>
+</TestCaseEntity>
