@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Überprüft die Anwesenheit alles Links des Footers auf der Portalseite.</description>
+   <name>check_portal_loggedOut</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8ac16f9-7e89-4b13-b146-029e10f1ab57</testCaseGuid>
+</TestCaseEntity>
