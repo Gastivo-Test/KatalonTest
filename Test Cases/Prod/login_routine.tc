@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Script zum einloggen.
+Daten können beliebig getauscht werden, um verschiedenen Rollen und Zustaende zu erreichen.</description>
+   <name>login_routine</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5450e8a8-6b50-4f1a-afae-f7dc84639e62</testCaseGuid>
+   <variable>
+      <defaultValue>'\r\ngtest-sk101.10@new-how.com'</defaultValue>
+      <description>Nutzer mit einem Betrieb.</description>
+      <id>0b44435c-3e8c-4df8-a47d-a04b0b45717c</id>
+      <masked>false</masked>
+      <name>user1</name>
+   </variable>
+   <variable>
+      <defaultValue>'$Test-1234$'</defaultValue>
+      <description></description>
+      <id>749ee7a1-93c5-4d9e-844c-d860fe689ec5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
